@@ -1,0 +1,27 @@
+# squirrel.custom.yaml
+patch:
+  style:
+    color_scheme: mojave_dark
+    horizontal: true # 水平/竖直显示
+    inline_preedit: true
+    corner_radius: 5
+    border_height: 0
+    border_width: 0
+    line_spacing: 1
+    font_point: 14
+    spacing: 5  # space between preedit and candidates in non-inline mode
+  app_options:
+    com.googlecode.iterm2:
+      ascii_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: true
+    com.jetbrains.intellij:
+      ascii_mode: true
+    com.google.android.studio:
+      ascii_mode: true
+    com.jetbrains.CLion:
+      ascii_mode: true
+    com.jetbrains.pycharm:
+      ascii_mode: true
+    com.prect.NavicatPremium15:
+      ascii_mode: true
