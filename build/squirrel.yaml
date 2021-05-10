@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     squirrel: 1613228858
-    squirrel.custom: 1617421133
+    squirrel.custom: 1620656768
 app_options:
   com.google.android.studio:
     ascii_mode: true
@@ -281,8 +281,8 @@ preset_color_schemes:
     text_color: 0xccaa88
 show_notifications_when: appropriate
 style:
-  border_height: 0
-  border_width: 0
+  border_height: 7
+  border_width: 8
   color_scheme: mojave_dark
   corner_radius: 5
   font_point: 14
