@@ -19,6 +19,8 @@ patch:
       ascii_mode: true
     com.google.android.studio:
       ascii_mode: true
+    com.google.android.studio-EAP:
+      ascii_mode: true
     com.jetbrains.CLion:
       ascii_mode: true
     com.jetbrains.pycharm:
