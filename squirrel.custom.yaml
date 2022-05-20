@@ -29,5 +29,3 @@ patch:
       ascii_mode: true
     com.prect.NavicatPremium15:
       ascii_mode: true
-    com.raycast.macos:
-      ascii_mode: true
