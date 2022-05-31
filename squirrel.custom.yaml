@@ -27,5 +27,5 @@ patch:
       ascii_mode: true
     com.jetbrains.pycharm:
       ascii_mode: true
-    com.prect.NavicatPremium15:
+    com.raycast.macos:
       ascii_mode: true
