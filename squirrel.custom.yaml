@@ -13,20 +13,27 @@ patch:
   app_options:
     com.googlecode.iterm2:
       ascii_mode: true
+      vim_mode: true
     com.microsoft.VSCode:
       ascii_mode: true
     com.jetbrains.intellij:
       ascii_mode: true
+      vim_mode: true
     com.jetbrains.intellij.ce:
       ascii_mode: true
+      vim_mode: true
     com.google.android.studio:
       ascii_mode: true
+      vim_mode: true
     com.google.android.studio-EAP:
       ascii_mode: true
+      vim_mode: true
     com.jetbrains.CLion:
       ascii_mode: true
+      vim_mode: true
     com.jetbrains.pycharm:
       ascii_mode: true
+      vim_mode: true
     com.raycast.macos:
       ascii_mode: true
     com.apple.finder:
