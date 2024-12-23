@@ -2,14 +2,16 @@
 patch:
   style:
     color_scheme: mojave_dark
-    horizontal: true # 水平/竖直显示
+    candidate_list_layout: linear # 水平/竖直显示
+    text_orientation: horizontal
     inline_preedit: true
     corner_radius: 5
     border_height: 7
     border_width: 8
     line_spacing: 1
     font_point: 14
-    spacing: 5  # space between preedit and candidates in non-inline mode
+    spacing: 5 # space between preedit and candidates in non-inline mode
+    show_notifications_when: always
   app_options:
     com.googlecode.iterm2:
       ascii_mode: true
@@ -38,3 +40,6 @@ patch:
       ascii_mode: true
     com.apple.finder:
       ascii_mode: true
+  com.huawei.devecostudio.ds:
+    ascii_mode: true
+    vim_mode: true
