@@ -18,6 +18,7 @@ patch:
       vim_mode: true
     com.microsoft.VSCode:
       ascii_mode: true
+      vim_mode: true
     com.jetbrains.intellij:
       ascii_mode: true
       vim_mode: true
@@ -40,6 +41,6 @@ patch:
       ascii_mode: true
     com.apple.finder:
       ascii_mode: true
-  com.huawei.devecostudio.ds:
-    ascii_mode: true
-    vim_mode: true
+    com.huawei.devecostudio.ds:
+      ascii_mode: true
+      vim_mode: true
