@@ -3,15 +3,16 @@ patch:
   style:
     color_scheme: mojave_dark
     candidate_list_layout: linear # 水平/竖直显示
-    text_orientation: horizontal
     inline_preedit: true
-    corner_radius: 5
-    border_height: 7
-    border_width: 8
+    display_tray_icon: true
+    horizontal: true
+    corner_radius: 10
+    border_height: 0
+    border_width: 0
     line_spacing: 1
     font_point: 14
     spacing: 5 # space between preedit and candidates in non-inline mode
-    show_notifications_when: always
+  show_notifications_when: always
   app_options:
     com.googlecode.iterm2:
       ascii_mode: true
@@ -25,12 +26,6 @@ patch:
     com.jetbrains.intellij.ce:
       ascii_mode: true
       vim_mode: true
-    com.google.android.studio:
-      ascii_mode: true
-      vim_mode: true
-    com.google.android.studio-EAP:
-      ascii_mode: true
-      vim_mode: true
     com.jetbrains.CLion:
       ascii_mode: true
       vim_mode: true
@@ -42,5 +37,11 @@ patch:
     com.apple.finder:
       ascii_mode: true
     com.huawei.devecostudio.ds:
+      ascii_mode: true
+      vim_mode: true
+    com.google.android.studio:
+      ascii_mode: true
+      vim_mode: true
+    com.google.android.studio-EAP:
       ascii_mode: true
       vim_mode: true
